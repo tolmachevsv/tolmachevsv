@@ -1,11 +1,14 @@
 ## About me
 I'm QA Automation Engineer from Saint-Petersburg
 
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Selenide](https://img.shields.io/badge/-Selenide-090909?style=for-the-badge&logo=selenide)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=junit5)
 ![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=gradle)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins)
+![Allure](https://img.shields.io/badge/-Allure-090909?style=for-the-badge&logo=allure)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+
 
 ![my badge](https://badgen.web/https/napkin-examples.npkn.web/bitcoin-badge)
 
