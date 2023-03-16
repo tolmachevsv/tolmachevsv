@@ -16,5 +16,5 @@ I'm QA Automation Engineer from Saint-Petersburg
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_Idea-090909?style=for-the-badge&logo=intellijidea)
 
 ## My GitHub stats and top langs
-[![Tolmachev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolmachevsv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolmachevsv&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolmachevsv)](https://github.com/anuraghazra/github-readme-stats)
